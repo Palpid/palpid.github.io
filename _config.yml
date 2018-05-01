@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             Dia a Dia con Sap Business One
+email:             david@davidpalazon.net
+description:       Un blog sobre las vivencias de un consultor Sap B1
+author:            David Palazón
 baseurl:           ""
 url:               "https://palpid.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  DavidBermd
+github_username:   palpid
+facebook_username: palpid
 
 # Build settings
 markdown:          kramdown
